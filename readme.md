@@ -27,7 +27,7 @@ Adjustable Intensity - 5 preset levels (50 to 5000+ concurrency)
 
  Installation:
 
-git clone https://github.com/brigtw696/pulsestorm.git
+git clone https://github.com/brigt696/pulsestorm.git
 cd pulsestorm
 pip install -r requirements.txt
 python pulsestorm.py
