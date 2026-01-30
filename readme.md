@@ -6,11 +6,9 @@ PulseStorm is a powerful, async-based HTTP stress testing tool designed for auth
 
 ⚠️ Legal Disclaimer
 
-WARNING: This tool is intended for authorized testing only. 
-
-- Use only on systems you own or have explicit written permission to test
-- Unauthorized access to computer systems is illegal
-- The author (brigt696) assumes no liability for misuse
+WARNING: This software is provided for educational and authorized testing purposes only.
+Use against systems you own or have explicit permission to test.
+Misuse may violate local and international laws.
 
 Features:
 
